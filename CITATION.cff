@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Pareto-based Evaluation of Lightweight AI Models on Embedded Devices"
+message: "If you use this repository, please cite it as follows."
+type: software
+
+authors:
+  - family-names: Rojas Carrasco
+    given-names: Patricio
+
+repository-code: "https://github.com/projasc1974/pareto-embedded-ai"
+
+abstract: >
+  Reproducible framework for evaluating lightweight AI models on low-cost embedded devices using Pareto-based multi-objective analysis. Includes implementations of MLR, MLP and CNN models evaluated on ESP32-S3 and Raspberry Pi platforms.
+
+keywords:
+  - embedded AI
+  - TinyML
+  - Pareto optimization
+  - edge computing
+  - machine learning
+
+license: MIT
